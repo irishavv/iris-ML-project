@@ -1,5 +1,7 @@
 # iris-ML-project
 
+Author- Rishav Kumar
+
 # Iris Dataset Analysis 🌸
 
 ## Overview
